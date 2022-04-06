@@ -1,0 +1,25 @@
+{
+  
+  "services": [
+    {
+      "id": "01",
+      "title": "Diseño libre",
+      "content": "Los contenedores tienen la flexibilidad para adecuarse a los requerimientos de cada obra, ya que pueden apilarse, cortarse y equiparse con todo tipo de aditamentos."
+    },
+    {
+      "id": "02",
+      "title": "Económico",
+      "content": "El diseño y construcción con contenedores permite la reducción de costos por el reciclaje de materiales. Además son anticiclónicos y muy seguros."
+    },
+    {
+      "id": "03",
+      "title": "Movible",
+      "content": "Los espacios construidos con contenedores tienen la posibilidad de ser transportados de un lugar a otro, elevando su valor práctico."
+    },
+    {
+      "id": "04",
+      "title": "Ecológico",
+      "content": "Este modelo de construcción no genera alteraciones permanentes en el terreno, siendo una opción responsable al medio ambiente."
+    }
+  ]
+}

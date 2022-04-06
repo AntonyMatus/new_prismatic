@@ -1,0 +1,25 @@
+{
+  "title": {
+    "first": "The Future ",
+    "second": "Looks PRISMATIC."
+  },
+  "image1": "/assets/img/slid/n/Recurso-46-20.jpg",
+  "image2": "/assets/img/slid/n/Recurso-47-20.jpg",
+  "content": "En Prismatic tenemos un ojo en el futuro. Somos una empresa dedicada al diseño, construcción y comercialización de espacios libres con contenedores. Creemos que este método de construcción revolucionará al mercado inmobiliario por su practicidad, comodidad, y capacidad de crear espacios creativos e interesantes.",
+
+  "exp": 21,
+  "textList": [
+    {
+      "id": 1,
+      "name": "Diseño"
+    },
+    {
+      "id": 2,
+      "name": "Construcción"
+    },
+    {
+      "id": 3,
+      "name": "Comercialización"
+    }
+  ]
+}
