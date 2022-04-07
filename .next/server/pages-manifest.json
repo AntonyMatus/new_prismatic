@@ -1,4 +1,9 @@
 {
+  "/Bar_Tematico": "pages/Bar_Tematico.html",
+  "/Bodega_Contenedor": "pages/Bodega_Contenedor.html",
+  "/Bunker": "pages/Bunker.html",
+  "/Loft_Contenedor": "pages/Loft_Contenedor.html",
+  "/Recamara_Infantil": "pages/Recamara_Infantil.html",
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/_error": "pages/_error.js"
