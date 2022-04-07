@@ -26,22 +26,22 @@ const ProjectDetails = () => {
         <div className="justified-gallery">
           <div className="col">
             
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/loft1.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/loft2.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/loft3.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/loft4.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/loft5.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/portafa.jpeg" />
             </a>
             

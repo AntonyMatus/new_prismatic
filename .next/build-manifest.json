@@ -20,6 +20,11 @@
       "static/chunks/main.js",
       "static/chunks/pages/index.js"
     ],
+    "/Loft_Contenedor": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/Loft_Contenedor.js"
+    ],
     "/Recamara_Infantil": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",

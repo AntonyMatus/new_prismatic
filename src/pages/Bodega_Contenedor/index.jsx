@@ -26,13 +26,13 @@ const ProjectDetails = () => {
         <div className="justified-gallery">
           <div className="col">
             
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/bodega1.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/portada.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/bodega2.jpeg" />
             </a>
           </div>

@@ -26,46 +26,46 @@ const ProjectDetails = () => {
         <div className="justified-gallery">
           <div className="col">
             
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
-              <img alt="" src="/assets/img/portfolio/project1/interior-bar.jpeg" />
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
+              <img alt="" src="/assets/img/portfolio/project1/Interior-bar.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/portada_bar2.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/bar1.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/bar2.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/bar3.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/bar4.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/bar5.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/bar6.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/bar7.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/bar8.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/bar9.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/bar10.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/bar11.jpeg" />
             </a>
-            <a id="popup" href="#" className="col-lg-6 col-xl-6 col-md-6">
+            <a id="popup"  className="col-lg-6 col-xl-6 col-md-6">
               <img alt="" src="/assets/img/portfolio/project1/bar12.jpeg" />
             </a>
             
