@@ -4,6 +4,7 @@ import MainLayout from "../../layouts/main";
 import PageHeader from "../../components/Page-header";
 import ProjectIntro from "../../components/Project-Intro";
 import CloseIcon from '@material-ui/icons/Close';
+import SimpleGallery from './SimpleGallery';
 
 
 
@@ -65,20 +66,47 @@ const ProjectDetails = () => {
       <section className="projdtal">
         <div className="justified-gallery">
           
-          <div className={model? "model open" : "model"}>
-              <img src={tempimgSrc}  />
-             <CloseIcon onClick={() => setModel(false)} />
+        <div className={model? "model open" : "model"}>
+            <img src={tempimgSrc}  />
+            <CloseIcon onClick={() => setModel(false)} />
+        </div>
+        
+        <div className="gallery">
+          {data.map((item, index) =>{
+            return (
+              <div className="pics" key={index}>
+                <img src={item.imgSrc.src} style={{width: '100%'}} onClick={() => getImg(item.imgSrc.src)} />
+              </div>
+            )
+          })}
           </div>
+
+          {/* <SimpleGallery 
+            galleryID="my-test-gallery"
+            images={[
+              {
+                largeURL: '/assets/img/portfolio/project1/bodega1.jpeg',
+                thumbnailURL: '/assets/img/portfolio/project1/bodega1.jpeg',
+                width: 800,
+                height: 200,
+              },
+              {
+                largeURL: '/assets/img/portfolio/project1/portada.jpeg',
+                thumbnailURL: '/assets/img/portfolio/project1/portada.jpeg',
+                width: 800,
+                height:200,
+              },{
+                largeURL: '/assets/img/portfolio/project1/bodega2.jpeg',
+                thumbnailURL: '/assets/img/portfolio/project1/bodega2.jpeg',
+                width: 800,
+                height: 200,
+              }
+            ]}
           
-          <div className="gallery">
-            {data.map((item, index) =>{
-              return (
-                <div className="pics" key={index}>
-                  <img src={item.imgSrc.src} style={{width: '100%'}} onClick={() => getImg(item.imgSrc.src)} />
-                </div>
-              )
-            })}
-            </div>
+          
+          /> */}
+            
+            
            
         </div>
       </section>

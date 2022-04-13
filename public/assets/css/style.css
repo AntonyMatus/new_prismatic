@@ -1900,7 +1900,7 @@ body {
     color: #fff;
     font-size: 17px; }
     .pages-header .cont .path .active {
-      color: #5D4B98; }
+      color: #ffffff; }
     .pages-header .cont .path span {
       margin: 0 20px;
       font-size: 10px; }
@@ -4189,7 +4189,7 @@ footer {
   .model img{
     width: auto;
     max-width: 100%;
-    height: auto;
+    height: 100%;
     max-height: 100%;
     display: block;
     line-height: 0;
@@ -4589,7 +4589,11 @@ footer {
     top: -25px; }
   .clients-brand .img {
     width: 60px; } 
-  
+  .gallery {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+  }  
   
   }
 
