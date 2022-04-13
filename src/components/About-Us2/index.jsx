@@ -23,7 +23,7 @@ const AboutUs2 = () => {
                   <li key={item.id}>{item.name}</li>
                 ))}
               </ul>
-              <Link href="/about">
+              <Link href="/#contactanos">
                 <a className="btn-curve btn-color mt-30">
                   <span>Contacto</span>
                 </a>

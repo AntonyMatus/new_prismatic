@@ -32,7 +32,7 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
     <>
       <nav className="navbar change navbar-expand-lg" ref={navbarRef}>
         <div className="container">
-          <Link href="/demos">
+          <Link href="#">
             <a className={`logo ${logoClass && logoClass}`}>
               <img className="img_logo" src={appData.lightLogo} alt="logo" ref={logoRef} />
             </a>
@@ -61,29 +61,29 @@ const Navbar = ({ navbarRef, logoRef, logoClass }) => {
                 </Link>                
               </li> */}
               <li className="nav-item">
-                <Link href="#services">
+                <Link href="/#services">
                   <a className="nav-link">Servicios</a>
                 </Link>
               </li>
               <li className="nav-item">
-                <Link href="#nosotros">
+                <Link href="/#nosotros">
                   <a className="nav-link">Nosotros</a>
                 </Link>
               </li>
               <li className="nav-item">
-                <Link href="#espacios">
+                <Link href="/#espacios">
                   <a className="nav-link">Espacios</a>
                 </Link>
               </li>
               <li className="nav-item">
-                <Link href="#portafolio">
+                <Link href="/#portafolio">
                   <a className="nav-link">Portafolio</a>
                 </Link>
               </li>
 
               
               <li className="nav-item">
-                <Link href="#contactanos">
+                <Link href="/#contactanos">
                   <a className="nav-link">Contactanos</a>
                 </Link>
               </li>
