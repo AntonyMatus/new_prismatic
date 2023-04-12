@@ -74,7 +74,7 @@ const ProjectDetails = () => {
         <div className="justified-gallery">
         
         <div className={model? "model open" : "model"}>
-              <img src={tempimgSrc}  />
+              <img src={tempimgSrc} alt="img-2" />
              <CloseIcon onClick={() => setModel(false)} />
           </div>
         
@@ -82,7 +82,7 @@ const ProjectDetails = () => {
             {data.map((item, index) =>{
               return (
                 <div className="pics" key={index}>
-                  <img src={item.imgSrc.src} style={{width: '100%'}} onClick={() => getImg(item.imgSrc.src)} />
+                  <img src={item.imgSrc.src} style={{width: '100%'}} onClick={() => getImg(item.imgSrc.src)}  alt="img-2"/>
                 </div>
               )
             })}

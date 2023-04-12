@@ -5,7 +5,7 @@ const ScrollToTop = () => {
     
   return (
     
-      <a href="#" className='btn-wsp' target={'_blank'}>
+      <a href="https://wa.link/ma3ohu" className='btn-wsp' rel="noreferrer" target="_blank">
         <i><i className="fab fa-whatsapp"></i></i>
       </a>
       

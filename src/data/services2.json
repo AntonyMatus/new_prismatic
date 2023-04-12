@@ -2,26 +2,22 @@
   {
     "id": "01",
     "title": "Container house",
-    "content": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500."
+    "content": ""
   },
   {
     "id": "02",
     "title": "Container Room",
-    "content": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500."
+    "content": ""
   },
   {
     "id": "03",
     "title": "Container Bar",
-    "content": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500."
+    "content": ""
   },
   {
     "id": "04",
     "title": "Container Office",
-    "content": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500."
-  },
-  {
-    "id": "05",
-    "title": "Container Office",
-    "content": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500."
+    "content": ""
   }
+  
 ]

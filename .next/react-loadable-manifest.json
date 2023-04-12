@@ -1,8 +1,1 @@
-{
-  "Bodega_Contenedor\\SimpleGallery.js -> photoswipe": {
-    "id": "./node_modules/photoswipe/dist/photoswipe.esm.js",
-    "files": [
-      "static/chunks/node_modules_photoswipe_dist_photoswipe_esm_js.js"
-    ]
-  }
-}
+{}
