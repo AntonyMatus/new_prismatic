@@ -38,15 +38,15 @@ class MyDocument extends next_document__WEBPACK_IMPORTED_MODULE_1__["default"] {
                         }),
                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("meta", {
                             name: "keywords",
-                            content: "React Nextjs Template Archo onepage themeforest"
+                            content: "Bodega, Recamara, Bunker, Loft, Bar"
                         }),
                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("meta", {
                             name: "description",
-                            content: "Archo - Onepage Multi-Purpose React nextjs Template"
+                            content: "En Prismatic tenemos un ojo en el futuro. Somos una empresa dedicada al dise\xf1o, construcci\xf3n y comercializaci\xf3n de espacios libres con contenedores. Creemos que este m\xe9todo de construcci\xf3n revolucionar\xe1 al mercado inmobiliario por su practicidad, comodidad, y capacidad de crear espacios creativos e interesantes."
                         }),
                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("meta", {
                             name: "author",
-                            content: ""
+                            content: "Buho Solutions"
                         }),
                         /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("link", {
                             rel: "shortcut icon",

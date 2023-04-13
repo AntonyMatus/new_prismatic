@@ -183,6 +183,14 @@ function MyApp({ Component , pageProps  }) {
                     /*#__PURE__*/ jsx_runtime_.jsx("meta", {
                         name: "viewport",
                         content: "width=device-width, initial-scale=1, maximum-scale=1"
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("meta", {
+                        name: "author",
+                        content: "Buho Solutions"
+                    }),
+                    /*#__PURE__*/ jsx_runtime_.jsx("meta", {
+                        name: "description",
+                        content: "En Prismatic tenemos un ojo en el futuro. Somos una empresa dedicada al dise\xf1o, construcci\xf3n y comercializaci\xf3n de espacios libres con contenedores. Creemos que este m\xe9todo de construcci\xf3n revolucionar\xe1 al mercado inmobiliario por su practicidad, comodidad, y capacidad de crear espacios creativos e interesantes."
                     })
                 ]
             }),

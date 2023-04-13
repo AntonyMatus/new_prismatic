@@ -134,7 +134,7 @@ const IntroWithHorizontal = ()=>{
                                                         ]
                                                     }),
                                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(next_link__WEBPACK_IMPORTED_MODULE_5__["default"], {
-                                                        href: "/#contactanos",
+                                                        href: "/#",
                                                         children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                                             className: "btn-curve btn-bord btn-lit mt-30",
                                                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
@@ -200,12 +200,9 @@ var external_react_ = __webpack_require__(6689);
 var external_react_default = /*#__PURE__*/__webpack_require__.n(external_react_);
 ;// CONCATENATED MODULE: ./src/data/portfolio1.json
 const portfolio1_namespaceObject = JSON.parse('{"H":[{"id":1,"name":"Bodega","filterClass":".bodega"},{"id":2,"name":"Recámara","filterClass":".recamara"},{"id":3,"name":"Bunker","filterClass":".bunker"},{"id":4,"name":"Loft","filterClass":".loft"},{"id":5,"name":"Bar","filterClass":".bar"}],"c":[{"id":1,"image":"/assets/img/portfolio/portadas/bodega-portada.jpg","title":"Bodega con Contenedor","tag":"Bodega","filterClass":"bodega","url":"/Bodega_Contenedor"},{"id":2,"image":"/assets/img/portfolio/portadas/infantil-portada.jpg","title":"Recamara Infantil","tag":"Recamara","filterClass":"recamara","url":"/Recamara_Infantil"},{"id":3,"image":"/assets/img/portfolio/portadas/loft-portada.jpg","title":"Loft con contenedor","tag":"Loft","filterClass":"loft","url":"/Loft_Contenedor"},{"id":4,"image":"/assets/img/portfolio/portadas/bunker-portada.jpg","title":"Búnker para 4 personas","tag":"Búnker","filterClass":"bunker","url":"/Bunker"},{"id":5,"image":"/assets/img/portfolio/portadas/portada.jpeg","title":"Bar Tematico","tag":"Bar","filterClass":"bar","url":"/Bar_Tematico"}]}');
-// EXTERNAL MODULE: ./node_modules/next/link.js
-var next_link = __webpack_require__(1664);
 // EXTERNAL MODULE: ./src/common/initIsotope.js
 var initIsotope = __webpack_require__(8063);
 ;// CONCATENATED MODULE: ./src/components/Portfolio1/index.jsx
-
 
 
 
@@ -284,12 +281,9 @@ const Portfolio1 = ()=>{
                                                 style: {
                                                     backgroundImage: `url(${item.image})`
                                                 },
-                                                children: /*#__PURE__*/ jsx_runtime_.jsx(next_link["default"], {
-                                                    href: "#",
-                                                    children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
-                                                        children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                            className: "item-img-overlay valign"
-                                                        })
+                                                children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
+                                                    children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                                        className: "item-img-overlay valign"
                                                     })
                                                 })
                                             }),
@@ -413,39 +407,38 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6689);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _components_Services1__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1643);
-/* harmony import */ var _components_Intro_with_horizontal__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(6429);
-/* harmony import */ var _layouts_light__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(6172);
-/* harmony import */ var _components_Portfolio1__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(3534);
-/* harmony import */ var _components_Services2__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(9533);
-/* harmony import */ var _components_About_Us2__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(8991);
-var __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_components_Intro_with_horizontal__WEBPACK_IMPORTED_MODULE_3__]);
-_components_Intro_with_horizontal__WEBPACK_IMPORTED_MODULE_3__ = (__webpack_async_dependencies__.then ? await __webpack_async_dependencies__ : __webpack_async_dependencies__)[0];
+/* harmony import */ var _components_Intro_with_horizontal__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(6429);
+/* harmony import */ var _components_Services2__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(9533);
+/* harmony import */ var _components_About_Us2__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(8991);
+/* harmony import */ var _components_Services1__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(1643);
+/* harmony import */ var _components_Portfolio1__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(3534);
+/* harmony import */ var _layouts_light__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(6172);
+var __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([_components_Intro_with_horizontal__WEBPACK_IMPORTED_MODULE_2__]);
+_components_Intro_with_horizontal__WEBPACK_IMPORTED_MODULE_2__ = (__webpack_async_dependencies__.then ? await __webpack_async_dependencies__ : __webpack_async_dependencies__)[0];
 
 /* eslint-disable @next/next/no-img-element */ 
 
 
 
 
-//home2
 
 
 const Home1 = ()=>{
     react__WEBPACK_IMPORTED_MODULE_1___default().useEffect(()=>{
         document.querySelector("body").classList.add("homepage");
     }, []);
-    return(/*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_layouts_light__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .Z, {
+    return(/*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)(_layouts_light__WEBPACK_IMPORTED_MODULE_7__/* ["default"] */ .Z, {
         footerClass: "mt-30",
         children: [
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Intro_with_horizontal__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z, {
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Intro_with_horizontal__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z, {
             }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Services2__WEBPACK_IMPORTED_MODULE_6__/* ["default"] */ .Z, {
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Services2__WEBPACK_IMPORTED_MODULE_3__/* ["default"] */ .Z, {
             }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_About_Us2__WEBPACK_IMPORTED_MODULE_7__/* ["default"] */ .Z, {
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_About_Us2__WEBPACK_IMPORTED_MODULE_4__/* ["default"] */ .Z, {
             }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Services1__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z, {
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Services1__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .Z, {
             }),
-            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Portfolio1__WEBPACK_IMPORTED_MODULE_5__/* ["default"] */ .Z, {
+            /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx(_components_Portfolio1__WEBPACK_IMPORTED_MODULE_6__/* ["default"] */ .Z, {
             })
         ]
     }));

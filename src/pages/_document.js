@@ -16,13 +16,13 @@ class MyDocument extends Document {
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta
             name="keywords"
-            content="React Nextjs Template Archo onepage themeforest"
+            content="Bodega, Recamara, Bunker, Loft, Bar"
           />
           <meta
             name="description"
-            content="Archo - Onepage Multi-Purpose React nextjs Template"
+            content="En Prismatic tenemos un ojo en el futuro. Somos una empresa dedicada al diseño, construcción y comercialización de espacios libres con contenedores. Creemos que este método de construcción revolucionará al mercado inmobiliario por su practicidad, comodidad, y capacidad de crear espacios creativos e interesantes."
           />
-          <meta name="author" content="" />
+          <meta name="author" content="Buho Solutions" />
 
           <link rel="shortcut icon" href="/assets/img/PRISMATIC ISOTIPO MORADO_Mesa de trabajo 1.svg" />
 

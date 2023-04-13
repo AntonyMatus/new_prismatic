@@ -15,6 +15,9 @@ function MyApp({ Component, pageProps }) {
           name="viewport"
           content="width=device-width, initial-scale=1, maximum-scale=1"
         />
+        <meta name="author" content="Buho Solutions"></meta>
+        <meta name="description" content="En Prismatic tenemos un ojo en el futuro. Somos una empresa dedicada al diseño, construcción y comercialización de espacios libres con contenedores. Creemos que este método de construcción revolucionará al mercado inmobiliario por su practicidad, comodidad, y capacidad de crear espacios creativos e interesantes." />
+        
       </Head>
 
       <Cursor />

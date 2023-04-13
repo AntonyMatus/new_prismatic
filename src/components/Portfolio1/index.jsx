@@ -1,6 +1,5 @@
 import React from "react";
 import portfolio1Data from "../../data/portfolio1.json";
-import Link from "next/link";
 import initIsotope from "../../common/initIsotope";
 const Portfolio1 = () => {
   React.useEffect(() => {
@@ -59,11 +58,11 @@ const Portfolio1 = () => {
                       backgroundImage: `url(${item.image})`,
                     }}
                   >
-                    <Link href="#">
+                    
                       <a>
                         <div className="item-img-overlay valign"></div>
                       </a>
-                    </Link>
+                    
                   </div>
                   <div className="info mt-10">
                     <h5>{item.title}</h5>
